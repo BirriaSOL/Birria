@@ -1,0 +1,23 @@
+{
+  "name": "Birria",
+  "symbol": "Birria",
+  "uri": "https://github.com/BirriaSOL/Birria/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "5N4SDwixxnAPvfCjdrcCYCNFuiakoTzBpLA9umVa1CPZ",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "description": "Token inspired by Birria Tacos.",
+  "image": "https://example.com/token_image.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/file1.txt",
+        "type": "text/plain"
+      }
+    ]
+  }
+}
